@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I’m Back to Assist YOU!
-date: 2019-11-11 21:55:44
+date: 2019-11-11 21:55:00
 tags:
   - Real Estate
 excerpt: >-
@@ -20,7 +20,7 @@ youtube_code: O3SJ8awk6PE
 
 I am eager to tell you all that I’m back\!&nbsp;
 
-I never actually went anywhere, but about two years ago **I was given the rare and exciting opportunity to become the broker and manager of Yuma’s number one real estate company: ERA Matt Fisher Realtor.** That has been an unbelievable experience and growth opportunity for me. However, due to the time commitment required to learn my new role and responsibilities, it tore me away from working with my core group of clients, and my ability to assist them with their real estate needs. Now, two years later, I’m up and running there and everything’s going great.&nbsp;
+I never actually went anywhere, but about two years ago **I was given the rare and exciting opportunity to become the broker and manager of Yuma’s No. 1 real estate company: ERA Matt Fisher Realtor.** That has been an unbelievable experience and growth opportunity for me. However, due to the time commitment required to learn my new role and responsibilities, it tore me away from working with my core group of clients, and my ability to assist them with their real estate needs. Now, two years later, I’m up and running there and everything’s going great.&nbsp;
 
 {% include pullquote.html %}
 
