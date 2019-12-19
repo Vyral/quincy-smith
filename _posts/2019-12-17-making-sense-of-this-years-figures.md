@@ -27,6 +27,18 @@ On a quarterly basis, I put together a Yuma market report that shows all the sta
 
 {% include pullquote.html %}
 
-You’re welcome to follow along with the video above, but I’ve also included timestamps below so that you can jump right to the parts that interest you most.&nbsp;
+**You’re welcome to follow along with the video above, but I’ve also included timestamps below so that you can jump right to the parts that interest you most.&nbsp;**
 
-1:00 - Market comparison for single-family homes in the area&nbsp;<br>1:54 - Market comparison for manufactured homes in the area&nbsp;<br>2:35 - Market comparison for condominiums in the area<br>3:00 - Interpreting the data and understanding the large price increase&nbsp;<br>3:30 - Inventory levels in Yuma are extremely low&nbsp;<br>4:05 - The consequences of fewer homes on the market&nbsp;<br>4:44 - Wrapping things up<br>&nbsp;<br>I hope you enjoyed this market update. I wish you and yours a warm, festive holiday season and a great start to the new year. Please feel free to reach out to me via phone or email if you have any real estate questions. I’m always happy to help.
+1:00 - Market comparison for single-family homes in the area
+
+1:54 - Market comparison for manufactured homes in the area
+
+2:35 - Market comparison for condominiums in the area
+
+3:00 - Interpreting the data and understanding the large price increase&nbsp;
+
+3:30 - Inventory levels in Yuma are extremely low
+
+4:05 - The consequences of fewer homes on the market&nbsp;
+
+4:44 - Wrapping things up<br>&nbsp;<br>I hope you enjoyed this market update. I wish you and yours a warm, festive holiday season and a great start to the new year. Please feel free to reach out to me via phone or email if you have any real estate questions. I’m always happy to help.
