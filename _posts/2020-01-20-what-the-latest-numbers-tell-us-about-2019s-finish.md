@@ -23,7 +23,7 @@ youtube_code: Ki3W06wjH_U
 
 {% include youtube.html %}
 
-Welcome to 2020\! I hope that 2019 was your best year to date, you had a wonderful holiday season, and you’re 2020 is even more blessed.&nbsp;
+Welcome to 2020\! I hope that 2019 was your best year to date, you had a wonderful holiday season, and your 2020 is even more blessed.&nbsp;
 
 We just finished our first company sales meeting of the new year where we took a deep dive into the latest statistics. We’ve been working toward a clearer forecast for what’s ahead in 2020 by comparing what happened in the 2019 market to years prior.&nbsp;
 
